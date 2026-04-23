@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=900&size=22&pause=1000&color=1A56DB&width=435&lines=Ol%C3%A1%2C+me+chamo+Uriel+Broisler!;Sou+desenvolvedor+backend!;Apaixonado+por+Python+e+APIs+REST!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=900&size=22&pause=1000&color=1A56DB&width=435&lines=Ol%C3%A1%2C+me+chamo+Uriel+Broisler!;Sou+desenvolvedor+backend!;Apaixonado+por+Python!)](https://git.io/typing-svg)
 
 ---
 
