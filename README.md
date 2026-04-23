@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=900&size=22&pause=1000&color=1A56DB&width=435&lines=Ol%C3%A1%2C+me+chamo+Uriel+Broisler!;Sou+desenvolvedor+backend+em+forma%C3%A7%C3%A3o;Apaixonado+por+Python+e+APIs+REST!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=900&size=22&pause=1000&color=1A56DB&width=435&lines=Ol%C3%A1%2C+me+chamo+Uriel+Broisler!;Sou+desenvolvedor+backend!;Apaixonado+por+Python+e+APIs+REST!)](https://git.io/typing-svg)
 
 ---
 
@@ -35,7 +35,7 @@ Ferramenta de linha de comando em **Python** para busca de filmes via terminal, 
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=broislerdev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=broislerdev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
