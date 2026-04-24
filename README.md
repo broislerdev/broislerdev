@@ -26,10 +26,13 @@
 
 ---
 
-## 📌 Projeto em Destaque
+## 📌 Projetos em Destaque
 
 ### 🎬 [Movie Finder CLI](https://github.com/broislerdev/movie-search-cli)
 Ferramenta de linha de comando em **Python** para busca de filmes via terminal, integrando a **OMDb API (REST)** para retornar título, ano, duração e gênero. Utiliza a biblioteca `requests` para requisições HTTP e tratamento de respostas JSON.
+
+### 🎮 [Tic Tac Toe Game](https://github.com/broislerdev/tictactoe-game)
+Jogo da velha para 2 jogadores rodando direto no terminal, construído com estruturas básicas de dados do **Python** — sem bibliotecas externas. Conta com tela de boas-vindas em ASCII art, validação de jogadas, detecção de vitória e empate, e opção de reiniciar sem fechar o terminal.
 
 ---
 
