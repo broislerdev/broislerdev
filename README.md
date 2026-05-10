@@ -78,7 +78,7 @@ Sistema de gerenciamento hospitalar via terminal em **Python**, construído com 
 
 </div>
 
------
+
 
 ## 🔥 Contribuições
 
@@ -92,7 +92,7 @@ Sistema de gerenciamento hospitalar via terminal em **Python**, construído com 
 
 </div>
 
------
+
 
 ## 📥 Vamos nos conectar!
 
