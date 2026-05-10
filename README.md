@@ -4,7 +4,7 @@
 
 </div>
 
----
+-----
 
 <div align="left">
 
@@ -22,7 +22,7 @@
 
 </div>
 
----
+-----
 
 ## 🛠️ Tecnologias
 
@@ -35,22 +35,32 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+-----
 
 ## 📌 Projetos em Destaque
 
 ### 🎬 [Movie Finder CLI](https://github.com/broislerdev/movie-search-cli)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6B35?style=flat&logoColor=white)
 
 Ferramenta de linha de comando em **Python** para busca de filmes via terminal, integrando a **OMDb API (REST)** para retornar título, ano, duração e gênero. Utiliza a biblioteca `requests` para requisições HTTP e tratamento de respostas JSON.
 
 ### 🎮 [Tic Tac Toe Game](https://github.com/broislerdev/tictactoe-game)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 Jogo da velha para 2 jogadores rodando direto no terminal, construído com estruturas básicas de dados do **Python** — sem bibliotecas externas. Conta com tela de boas-vindas em ASCII art, validação de jogadas, detecção de vitória e empate, e opção de reiniciar sem fechar o terminal.
 
----
+### 🏥 [Hospital Management System](https://github.com/broislerdev/hospital-management-system)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-FF6B35?style=flat&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
+
+Sistema de gerenciamento hospitalar via terminal em **Python**, construído com **POO**. Permite cadastrar pacientes, médicos e agendar consultas, com persistência de dados em JSON e validação de entradas.
+
+-----
 
 ## 📊 GitHub Stats
 
@@ -58,11 +68,9 @@ Jogo da velha para 2 jogadores rodando direto no terminal, construído com estru
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=broislerdev&theme=dark&hide_border=true&ring=FF6B35&fire=FF4500&currStreakLabel=FF6B35)](https://git.io/streak-stats)
 
-![Uriel's Stats](https://github-readme-stats.vercel.app/api?username=broislerdev&theme=dark&hide_border=true&title_color=FF6B35&icon_color=FF6B35&show_icons=true)
-
 </div>
 
----
+-----
 
 ## 🔥 Contribuições
 
@@ -76,7 +84,7 @@ Jogo da velha para 2 jogadores rodando direto no terminal, construído com estru
 
 </div>
 
----
+-----
 
 ## 📥 Vamos nos conectar!
 
