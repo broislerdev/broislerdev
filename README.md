@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=900&size=22&pause=1000&color=FF6B35&width=435&lines=Olá%2C+me+chamo+Uriel+Broisler!;Sou+desenvolvedor+backend!;Apaixonado+por+Python!;Aberto+a+estágio+em+TI!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=900&size=22&pause=1000&color=FF6B35&width=435&lines=Olá%2C+me+chamo+Uriel+Broisler!;Sou+desenvolvedor+backend!;Apaixonado+por+Programação!;Aberto+a+estágio+em+TI!)](https://git.io/typing-svg)
 
 </div>
 
