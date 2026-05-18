@@ -60,27 +60,6 @@ Sistema de gerenciamento hospitalar via terminal em **Python**, construído com 
 
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=broislerdev&theme=dark&hide_border=true&ring=FF6B35&fire=FF4500&currStreakLabel=FF6B35)](https://git.io/streak-stats)
-
-</div>
-
-
-
-## 🔥 Contribuições
-
-<div align="center">
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/broislerdev/broislerdev/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/broislerdev/broislerdev/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/broislerdev/broislerdev/output/pacman-contribution-graph.svg">
-</picture>
-
-</div>
 
 
 
