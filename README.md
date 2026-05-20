@@ -4,7 +4,7 @@
 
 </div>
 
------
+
 
 <div align="left">
 
@@ -22,7 +22,7 @@
 
 </div>
 
------
+
 
 ## 🛠️ Tecnologias
 
@@ -35,7 +35,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
------
+
 
 ## 📌 Projetos em Destaque
 
@@ -60,7 +60,7 @@ Jogo da velha para 2 jogadores rodando direto no terminal, construído com estru
 
 Sistema de gerenciamento hospitalar via terminal em **Python**, construído com **POO**. Permite cadastrar pacientes, médicos e agendar consultas, com persistência de dados em **PostgreSQL** e padrão repository para acesso ao banco.
 
------
+
 
 ## 📥 Vamos nos conectar!
 
