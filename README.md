@@ -16,13 +16,13 @@
 
 🐍 Foco em **Backend** com Python
 
-🌱 Atualmente estudando fastAPI e arquitetura de APIs REST
+🌱 Atualmente estudando FastAPI e arquitetura de APIs REST
 
 🚀 Buscando minha primeira oportunidade de **estágio em TI**
 
 </div>
 
-
+-----
 
 ## 🛠️ Tecnologias
 
@@ -34,6 +34,8 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+-----
 
 ## 📌 Projetos em Destaque
 
@@ -54,14 +56,11 @@ Jogo da velha para 2 jogadores rodando direto no terminal, construído com estru
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-FF6B35?style=flat&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-Sistema de gerenciamento hospitalar via terminal em **Python**, construído com **POO**. Permite cadastrar pacientes, médicos e agendar consultas, com persistência de dados em JSON e validação de entradas.
+Sistema de gerenciamento hospitalar via terminal em **Python**, construído com **POO**. Permite cadastrar pacientes, médicos e agendar consultas, com persistência de dados em **PostgreSQL** e padrão repository para acesso ao banco.
 
-
-
-
-
+-----
 
 ## 📥 Vamos nos conectar!
 
