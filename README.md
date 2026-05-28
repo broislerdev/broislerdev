@@ -8,17 +8,13 @@
 
 <div align="left">
 
-**Desenvolvedor backend apaixonado por construir soluções reais com código limpo. 🔥**
+**Desenvolvedor backend construindo soluções reais com código limpo. 🔥**
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** pela Uninter
 
 🏫 Técnico em **Informática para Internet** pelo IFSP
 
 🐍 Foco em **Backend** com Python
-
-🌱 Atualmente estudando FastAPI e arquitetura de APIs REST
-
-🚀 Buscando minha primeira oportunidade de **estágio em TI**
 
 </div>
 
