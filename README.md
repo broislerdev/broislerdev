@@ -16,7 +16,7 @@
 
 </div>
 
-🛠️ Tecnologias
+## 🛠️ Tecnologias
 
 <p align="center">
   <a href="https://skillicons.dev">
