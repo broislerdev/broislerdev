@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=900&size=22&pause=1000&color=FF6B35&width=435&lines=Olá%2C+me+chamo+Uriel+Broisler!;Sou+desenvolvedor+backend!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=900&size=22&pause=1000&color=FF6B35&width=435&lines=Ol%C3%A1%2C+me+chamo+Uriel+Broisler!;Sou+desenvolvedor+backend!)](https://g[...]
 
 </div>
 
@@ -38,13 +38,14 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6B35?style=flat&logoColor=white)
 
-Ferramenta de linha de comando em **Python** para busca de filmes via terminal, integrando a **OMDb API (REST)** para retornar título, ano, duração e gênero. Utiliza a biblioteca `requests` para requisições HTTP e tratamento de respostas JSON.
+Ferramenta de linha de comando em **Python** para busca de filmes via terminal, integrando a **OMDb API (REST)** para retornar título, ano, duração e gênero. Utiliza a biblioteca `requests` pa[...]
 
-### 🎮 [Tic Tac Toe Game](https://github.com/broislerdev/tictactoe-game)
+### 📚 [School Reports](https://github.com/broislerdev/school-reports)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Reports](https://img.shields.io/badge/Reports-FF6B35?style=flat&logoColor=white)
 
-Jogo da velha para 2 jogadores rodando direto no terminal, construído com estruturas básicas de dados do **Python** — sem bibliotecas externas. Conta com tela de boas-vindas em ASCII art, validação de jogadas, detecção de vitória e empate, e opção de reiniciar sem fechar o terminal.
+Sistema em **Python** para gerenciamento de atividades escolares. Permite cadastrar alunos, disciplinas e gerar relatórios de notas. Utiliza persistência de dados local e inclui interface para interação no terminal.
 
 ### 🏥 [Hospital Management System](https://github.com/broislerdev/hospital-management-system)
 
@@ -52,7 +53,7 @@ Jogo da velha para 2 jogadores rodando direto no terminal, construído com estru
 ![OOP](https://img.shields.io/badge/OOP-FF6B35?style=flat&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-Sistema de gerenciamento hospitalar via terminal em **Python**, construído com **POO**. Permite cadastrar pacientes, médicos e agendar consultas, com persistência de dados em **PostgreSQL** e padrão repository para acesso ao banco.
+Sistema de gerenciamento hospitalar via terminal em **Python**, construído com **POO**. Permite cadastrar pacientes, médicos e agendar consultas, com persistência de dados em **PostgreSQL** e p[...]
 
 
 
