@@ -56,7 +56,7 @@ Além da parte técnica, esse projeto busca destacar a importância de canais de
 
 Sistema de gerenciamento hospitalar via terminal em **Python**, construído com **POO**. Permite cadastrar pacientes, médicos e agendar consultas, com persistência de dados em **PostgreSQL** e padrão repository para acesso ao banco.
 
-📥 Vamos nos conectar!
+## 📥 Vamos nos conectar!
 
 <div align="center">
 
