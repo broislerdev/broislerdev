@@ -40,7 +40,7 @@
 
 Ferramenta de linha de comando em **Python** para busca de filmes via terminal, integrando a **OMDb API (REST)** para retornar título, ano, duração e gênero. Utiliza a biblioteca `requests` pa[...]
 
-### 📚 [School Reports](https://github.com/broislerdev/school-reports)
+### 📚 [School Reports](https://github.com/broislerdev/school-reports-api)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Reports](https://img.shields.io/badge/Reports-FF6B35?style=flat&logoColor=white)
