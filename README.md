@@ -1,28 +1,20 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=900&size=22&pause=1000&color=FF6B35&width=435&lines=Ol%C3%A1%2C+me+chamo+Uriel+Broisler!;Sou+desenvolvedor+backend!)](https://g[...]
-
 </div>
-
-
 
 <div align="left">
 
-**Desenvolvedor backend construindo soluções reais com código limpo. 🔥**
+Desenvolvedor backend construindo soluções reais com código limpo. 🔥
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** pela Uninter
+🎓 Estudante de Análise e Desenvolvimento de Sistemas pela Uninter
 
-🏫 Técnico em **Informática para Internet** pelo IFSP
+🏫 Técnico em Informática para Internet pelo IFSP
 
-🐍 Foco em **Backend** com Python
+🐍 Foco em Backend com Python
 
 </div>
 
-
-
 ## 🛠️ Tecnologias
-
-
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -30,38 +22,26 @@
   </a>
 </p>
 
-
 ## 📌 Projetos em Destaque
 
-### 🎬 [Movie Finder CLI](https://github.com/broislerdev/movie-search-cli)
+### 🎬 Movie Finder CLI
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6B35?style=flat&logoColor=white)
+Ferramenta de linha de comando em Python para busca de filmes via terminal, integrando a OMDb API REST para retornar informações como título, ano, duração e gênero. Utiliza a biblioteca `requests` para requisições HTTP e tratamento de respostas em JSON.
 
-Ferramenta de linha de comando em **Python** para busca de filmes via terminal, integrando a **OMDb API (REST)** para retornar título, ano, duração e gênero. Utiliza a biblioteca `requests` pa[...]
+### 🏫 School Reports API
 
-### 📚 [School Reports](https://github.com/broislerdev/school-reports-api)
+API REST desenvolvida com Python, FastAPI, PostgreSQL e Supabase para gerenciamento de denúncias escolares anônimas.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Reports](https://img.shields.io/badge/Reports-FF6B35?style=flat&logoColor=white)
+O projeto tem como objetivo oferecer um canal seguro para que estudantes possam relatar situações como bullying, violência, assédio ou outros problemas dentro do ambiente escolar. As denúncias são classificadas automaticamente com apoio de IA e notificadas à coordenação da escola por email.
 
-Sistema em **Python** para gerenciamento de atividades escolares. Permite cadastrar alunos, disciplinas e gerar relatórios de notas. Utiliza persistência de dados local e inclui interface para interação no terminal.
+Além da parte técnica, esse projeto também busca mostrar a importância de criar espaços de escuta dentro das escolas. Muitas situações deixam de ser denunciadas por medo, vergonha ou falta de confiança, e uma ferramenta anônima pode ajudar alunos a pedirem ajuda com mais segurança.
 
-### 🏥 [Hospital Management System](https://github.com/broislerdev/hospital-management-system)
+### 🏥 Hospital Management System
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-FF6B35?style=flat&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-Sistema de gerenciamento hospitalar via terminal em **Python**, construído com **POO**. Permite cadastrar pacientes, médicos e agendar consultas, com persistência de dados em **PostgreSQL** e p[...]
-
-
+Sistema de gerenciamento hospitalar via terminal em Python, construído com Programação Orientada a Objetos. Permite cadastrar pacientes, médicos e agendar consultas, com persistência de dados em PostgreSQL e uso do padrão repository para acesso ao banco.
 
 ## 📥 Vamos nos conectar!
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uriel-broisler/)
-[![Email](https://img.shields.io/badge/-Email-FF6B35?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:broisler.uriel@gmail.com)
 
 </div>
