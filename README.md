@@ -8,7 +8,7 @@
   
 **Desenvolvedor backend construindo soluções reais com código limpo. 🔥**
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** pela Uninter
+🎓 Estudante de **Ciência da Computação** pela FIAP
 
 🏫 Técnico em **Informática para Internet** pelo IFSP
 
